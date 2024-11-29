@@ -1,0 +1,6 @@
+@CoreApiFirst_HostAddress = http://localhost:5022
+
+GET {{CoreApiFirst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
