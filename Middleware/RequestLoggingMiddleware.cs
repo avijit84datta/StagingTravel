@@ -11,7 +11,7 @@
 
         public async Task InvokeAsync(HttpContext context)
         {
-            Console.WriteLine($"Request: {context.Request.Method} {context.Request.Path}");
+            Console.WriteLine($"Request details: {context.Request.Method} {context.Request.Path}");
             await _next(context);
         }
     }
