@@ -170,3 +170,4 @@ D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\CoreApiFirst.pdb
 D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\CoreApiFirst.genruntimeconfig.cache
 D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\ref\CoreApiFirst.dll
 D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\CoreApiFirst.sourcelink.json
