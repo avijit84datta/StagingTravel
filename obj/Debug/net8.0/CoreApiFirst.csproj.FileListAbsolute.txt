@@ -169,5 +169,8 @@ D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\refint\CoreApiFirst.dll
 D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\CoreApiFirst.pdb
 D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\CoreApiFirst.genruntimeconfig.cache
 D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\ref\CoreApiFirst.dll
-D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\CoreApiFirst.sourcelink.json
+D:\Core\CoreWebApi\CoreApiFirst\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Core\CoreWebApi\CoreApiFirst\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Core\CoreWebApi\CoreApiFirst\bin\Debug\net8.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+D:\Core\CoreWebApi\CoreApiFirst\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll

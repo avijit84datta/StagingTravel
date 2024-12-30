@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-12-27T14:30:44.8741073Z"
+    }
+  },
+  "parameters": {
+    "secrets1.resourceGroupName": {
+      "Name": "secrets1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "nexgentravelportal_group"
+    },
+    "secrets1.subscriptionId": {
+      "Name": "secrets1.subscriptionId",
+      "Type": "subscription",
+      "Value": "528b9ccb-9d3c-4d7b-b383-30e57a464747"
+    }
+  }
+}

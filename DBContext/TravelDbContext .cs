@@ -6,11 +6,11 @@ namespace CoreApiFirst.DBContext
 {
     public class TravelDbContext : DbContext
     {
-        public TravelDbContext(DbContextOptions<TravelDbContext> options)
-            : base(options)
+        public TravelDbContext(DbContextOptions<TravelDbContext> options) : base(options)
         {
         }
 
         public DbSet<Destination> Destinations { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

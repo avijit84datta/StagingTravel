@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "CoreApiFirst.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CoreApiFirst.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CoreApiFirst.Controllers.DestinationController",
     "Method": "GetDestinations",
     "RelativePath": "api/Destination",
@@ -19,6 +35,43 @@
     "Parameters": [
       {
         "Name": "destination",
+        "Type": "CoreApiFirst.Models.Destination",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApiFirst.Controllers.DestinationController",
+    "Method": "DeleteDestination",
+    "RelativePath": "api/Destination",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApiFirst.Controllers.DestinationController",
+    "Method": "UpdateDestination",
+    "RelativePath": "api/Destination/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedDestination",
         "Type": "CoreApiFirst.Models.Destination",
         "IsRequired": true
       }
